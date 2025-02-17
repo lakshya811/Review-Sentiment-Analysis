@@ -1,0 +1,49 @@
+{
+    "request_id": "53e4567-e89b-12d3-a456-426614174000",
+    "user_id": "user123",
+    "data": {
+        "review_text": "This product is absolutely amazing!"
+    }
+}
+
+{
+    "request_id": "456e4567-e89b-17d3-a456-426614174000",
+    "user_id": "user1",
+    "data": {
+        "review_text": "I found this roduct very useful.!"
+    }
+}
+
+{
+    "request_id": "563e4567-e89b-12d3-a456-426614174000",
+    "user_id": "user3",
+    "data": {
+        "review_text": "This product is bad!"
+    }
+}
+
+
+{
+    "request_id": "563e4567-e89b-12d3-a456-426614174111",
+    "user_id": "user300",
+    "data": {
+        "review_text": "This product is shit!"
+    }
+}
+
+
+{
+    "request_id": "563e0909-e89b-12d3-a456-426614174111",
+    "user_id": "user_x",
+    "data": {
+        "review_text": "Useful product is shit!"
+    }
+}
+
+{
+    "request_id": "563e0909-e89b-99d3-a456-426614174111",
+    "user_id": "user_999",
+    "data": {
+        "review_text": "Not Useful product!"
+    }
+}
